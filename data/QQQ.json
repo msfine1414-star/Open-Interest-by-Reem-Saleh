@@ -1,0 +1,33 @@
+{
+  "symbol": "QQQ",
+  "updated": "2026-05-18",
+  "levels": [
+    {
+      "symbol": "QQQ",
+      "expiry": "DAILY",
+      "type": "C",
+      "strike": 720,
+      "oi": 10950,
+      "change": 8097,
+      "date": "2026-05-18"
+    },
+    {
+      "symbol": "QQQ",
+      "expiry": "DAILY",
+      "type": "C",
+      "strike": 715,
+      "oi": 6406,
+      "change": 2642,
+      "date": "2026-05-18"
+    },
+    {
+      "symbol": "QQQ",
+      "expiry": "DAILY",
+      "type": "C",
+      "strike": 721,
+      "oi": 4865,
+      "change": 2974,
+      "date": "2026-05-18"
+    }
+  ]
+}
